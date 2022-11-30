@@ -1,0 +1,1 @@
+# meteogalicia-api
